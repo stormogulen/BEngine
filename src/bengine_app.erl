@@ -17,7 +17,9 @@
 -vsn("0.1.0").
 
 %% Import unit tests.
+-ifdef(TEST).
 -include_lib("eunit/include/eunit.hrl").
+-endif.
 
 %% Application callbacks
 -export([start/2, stop/1]).
