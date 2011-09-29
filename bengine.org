@@ -2,3 +2,6 @@
 Just to see if github manage it...
 
 ** TODO More info
+
+* Org-mode with \LaTex symbols \alpha \beta \gamma
+
