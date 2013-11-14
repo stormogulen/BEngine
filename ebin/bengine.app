@@ -5,4 +5,6 @@
               {applications,[kernel,stdlib]},
               {mod,{bengine_app,[]}},
               {env,[]},
-              {modules,[bengine_app,bengine_sup]}]}.
+              {modules,[be_cache,be_element,be_element_sup,be_event,
+                        be_event_logger,be_store,be_sup,bengine_app,
+                        bengine_sup]}]}.

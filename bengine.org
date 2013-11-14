@@ -3,5 +3,4 @@ Just to see if github manage it...
 
 ** TODO More info
 
-* Org-mode with \LaTex symbols \alpha \beta \gamma
-
+* Org-mode with \LaTeX symbols \alpha \beta \gamma
